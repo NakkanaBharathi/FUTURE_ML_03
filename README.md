@@ -16,6 +16,6 @@ The chatbot can answer basic FAQs, greet users, and provide fallback responses f
 
 ## **Demo**
 The chatbot is live and embedded in the webpage via **Dialogflow Messenger**.  
-You can see it in action by opening `index.html` locally or visiting the live GitHub Pages link after deployment.
+You can see it in action by opening `Chatbot.html` locally or visiting the live GitHub Pages link after deployment.
 
 
